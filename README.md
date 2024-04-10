@@ -2,9 +2,6 @@
 
 Eu sou Nathália Freitas, uma Desenvolvedora em formação, entusiasta da Engenharia Elétrica durante o dia ☼ e apaixonada por Automação Robótica de Processos durante à noite ☾
 
-## Sobre Mim
-Sou uma multi-instrumentista autodidata, apaixonada por música há mais de 10 anos. Já tive experiências incríveis tocando em eventos, com quartetos, orquestras e até mesmo fiz um recital, mas agora me dedico principalmente ao meu desenvolvimento como profissional de tecnologia. Essa paixão pela música tem me ensinado disciplina, criatividade e trabalho em equipe, habilidades que aplico no meu dia a dia como desenvolvedora.
-
 ## Experiência Profissional
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas
 - 💼 Experiência em estágio na área de Automação Robótica de Processos

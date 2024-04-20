@@ -21,7 +21,7 @@ Eu sou Nathália Freitas, uma Desenvolvedora em formação, entusiasta da Engenh
 | VBA (Visual Basic for Applications) | Resolução de Problemas   |
 | C++                                 | Adaptabilidade           |
 | C                                   | Pensamento Crítico       |
-| Java                                | Colaboração              |
+| JavaScript                          | Colaboração              |
 | Python                              | Proatividade             |
 | SQL  | Autoaprendizagem  |
 

@@ -5,7 +5,7 @@ Eu sou Nathália Freitas, uma Desenvolvedora em formação, entusiasta da Engenh
 ## Experiência Profissional
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas
 - 💼 Experiência em estágio na área de Automação Robótica de Processos
-- 📚 Concluinte em Engenharia Elétrica com ênfase em Eletrônica
+- 📚 Concluinte em Engenharia Elétrica
 - 👩‍💼 Ex-líder de marketing e vendas em uma empresa júnior
 - 🛠️ Ex-líder em uma equipe de desenvolvimento de brinquedos eletrônicos para crianças
 - 👩‍🏫 Instrutora de programação e eletrônica para jovens
